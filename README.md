@@ -23,7 +23,7 @@ GitHub → Hospedagem do repositório remoto.
 🔹 1. Clonar o Repositório
 
 Para obter uma cópia do projeto em sua máquina local, utilize:
-git clone https://github.com/seu-usuario/portfolio.git
+git clone https://github.com/Cjr-pjs/Cjr-pjs.github.io
 
 🔹 2. Criar uma Nova Branch
 Se for implementar uma nova funcionalidade, crie uma branch:
